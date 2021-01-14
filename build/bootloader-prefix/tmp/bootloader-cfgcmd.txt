@@ -1,1 +1,0 @@
-cmd='/home/emerson/.espressif/tools/cmake/3.16.4/bin/cmake;-DSDKCONFIG=/home/emerson/cpp-eclipse-workspace/Controller_Umidade/sdkconfig;-DIDF_PATH=/home/emerson/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=/home/emerson/esp/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
